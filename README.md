@@ -117,7 +117,6 @@ Bot Menfes buat kirim vidio ke channel Telegram dengan tampilan kece dan fitur k
 
 Dikembangin dengan ❤️ untuk komunitas Telegram Indonesia.
 
-Mau custom lebih keren? Kontak [@username_kamu_disini] di Telegram!
 
 ---
 
